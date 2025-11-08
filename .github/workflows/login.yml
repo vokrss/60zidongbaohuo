@@ -25,7 +25,7 @@ jobs:
 
       - name: Run lognin script
         env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          CHAT_ID: ${{ secrets.CHAT_ID }}
+          BOT_TOKEN: ${{ secrets.7918203003:AAER8OISABxUHee-30WIlGQDfog9emnV1AI }}
+          CHAT_ID: ${{ secrets.1798616470 }}
           ACCOUNTS: ${{ secrets.ACCOUNTS }}
         run: npm start
